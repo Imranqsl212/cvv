@@ -1,4 +1,4 @@
-# Imran Zakirov CV Site
+# Imran CV Site
 
 Одностраничный компактный минималистичный CV-сайт.
 
